@@ -83,9 +83,3 @@ streamlit run Streamlit_App.py
 
 ---
 
-
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
-
----
-
-Let me know if you want badges, deployment steps (e.g. Streamlit Cloud), or demo GIFs added!
