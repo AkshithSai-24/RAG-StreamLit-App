@@ -1,7 +1,3 @@
-Thanks! Here's an updated and accurate `README.md` for your [RAG-StreamLit-App](https://github.com/AkshithSai-24/RAG-StreamLit-App), now reflecting that it uses **pip**, **LangChain**, and **Google Gemini** LLM:
-
----
-
 # 🧠 RAG-StreamLit-App
 
 A **Streamlit** application that leverages **Retrieval-Augmented Generation (RAG)** with **LangChain**, **Google Gemini**, and **Faiss** to provide intelligent, interactive question-answering from uploaded PDF documents.
